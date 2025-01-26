@@ -1,28 +1,41 @@
-## Python Flask Authentication
+# Advanced Flask Authentication System
 
-This repository contains the code used in the Python Flask Authentication [video](https://www.youtube.com/watch?v=71EU8gnZqZQ) uploaded on [my YouTube channel](https://www.youtube.com/watch?v=71EU8gnZqZQ).
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/Flask-2.0%2B-green)](https://flask.palletsprojects.com/)
+[![Status](https://img.shields.io/badge/Status-Academic-orange)](https://github.com/yourusername/project)
 
-## Installation
+## Overview
+Final year Computer Science project focused on secure user authentication. Built upon concepts from [this tutorial](https://www.youtube.com/watch?v=71EU8gnZqZQ), expanded with additional security features and industry best practices.
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the required dependencies
+## Features
+- User authentication flow
+- Secure password handling
+- Session management
+- Database integration
+- Cross-platform compatibility
 
-##### Windows:
-```zsh
+## Setup
+
+### Windows
+```bash
 pip install -r requirements.txt 
-```
-
-##### macOS/Linux:
-```zsh
-pip3 install -r requirements.txt
-```
-
-## Usage
-
-##### Windows:
-```zsh
 python app.py
 ```
-##### macOS/Linux:
-```zsh
+
+### macOS/Linux
+```bash
+pip3 install -r requirements.txt
 python3 app.py
 ```
+
+## Learning Outcomes
+- Authentication workflows
+- Flask architecture
+- Security implementation
+- Database design
+
+## Acknowledgments
+Initial inspiration from educational resources, enhanced with academic concepts from Advanced Web Security coursework.
+
+---
+*4th Year Computer Science Project, 2024*
